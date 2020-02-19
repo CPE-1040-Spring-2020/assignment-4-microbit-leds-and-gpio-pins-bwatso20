@@ -92,6 +92,9 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 ---
 
 ## Measurements
+1. measurment of the voltage drop of the LED is 2.13
+2. the current of the board is 15.1
+3. the resistance of the LED is v/I which is .141
 
 _TODO: Record and describe your circuit measurements and calculations here._
 

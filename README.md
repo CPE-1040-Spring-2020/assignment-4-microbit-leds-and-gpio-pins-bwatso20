@@ -99,5 +99,9 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 _TODO: Record and describe your circuit measurements and calculations here._
 
 ## Demo videos
+1. simple external LED circuit [demo video](https://imgur.com/gallery/PYQuxQ7)
+2.Mirco:bit breakout turtorial [demo video](https://imgur.com/gallery/w5c7wS9)
+3.Screensaver extension(led-matrix with no interference [demo video](https://imgur.com/account/favorites/Q2keD5b)
+4. Screensaver extension snake [demo video](https://imgur.com/account/favorites/D68upu7)
 
 _TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
